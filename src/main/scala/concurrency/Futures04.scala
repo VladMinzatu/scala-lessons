@@ -1,7 +1,5 @@
 package concurrency
 
-import java.lang.RuntimeException
-
 import scala.concurrent.{ExecutionContext, Future}
 
 /**
